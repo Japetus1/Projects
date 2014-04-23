@@ -1,4 +1,7 @@
-__author__ = 'daytron'
+"""
+    Bank Account Manager ATM
+"""
+
 
 
 class Account:

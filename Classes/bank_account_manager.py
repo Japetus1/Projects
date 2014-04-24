@@ -1,5 +1,6 @@
 """
-    Bank Account Manager ATM
+    Title: Bank Account Manager ATM
+    Author: Ryan Gilera
 """
 
 
@@ -288,7 +289,7 @@ if __name__ == '__main__':
                             isAccountSessionOn = False
                             print "Thank for using the 24-hour ATM service."
                             print "Have a pleasant day."
-                            print "\n\n\n"
+                            print "\n\n"
                             print "##########################################"
                 else:
                     print "Error. You don't have that account."

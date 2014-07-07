@@ -39,3 +39,5 @@ nosetests.xml
 *.komodoproject
 
 .DS_Store
+/Classes/BankAccountManager/BankAccountManager/nbproject/private/
+/Classes/ProductInventoryProject/JavaApplication10/nbproject/private/
